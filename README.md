@@ -80,7 +80,6 @@ http://localhost:8000/api
 
 | Método | Rota            | Descrição                 |
 | ------ | --------------- | ------------------------- |
-| GET    | `/teste`        | Testa se a API está ativa |
 | GET    | `/pedidos`      | Lista todos os pedidos    |
 | POST   | `/pedidos`      | Cria novo pedido          |
 | GET    | `/pedidos/{id}` | Detalha pedido por ID     |
